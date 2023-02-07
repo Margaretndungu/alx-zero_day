@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 The school is open!
 #! /bin/bash
+=======
+<<<<<<< HEAD
+school
+#! bin/bash
+=======
+The school is open!
+#! /bin/bash
+>>>>>>> update_script
+>>>>>>> master
